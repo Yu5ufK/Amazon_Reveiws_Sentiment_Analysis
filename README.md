@@ -45,7 +45,7 @@ The goal of this project is to analyze Amazon Fine Food Reviews and:
 - **Trend:** Line chart of sentiment by year.
 - **Context:** Table of recent reviews with actual sentiment.
 
-![Dashboard Screenshot](Amazon_Reviews_Sentiment_Analysis/Dashboard/Amazon_Reviews_Dashboard.png)
+![Dashboard Screenshot](Amazon_Reveiws_Sentiment_Analysis/Dashboard/Amazon_Reveiws_Dashboard.png)
 
 ## Key Insights
 - The dataset is dominated by positive reviews (~78%).
