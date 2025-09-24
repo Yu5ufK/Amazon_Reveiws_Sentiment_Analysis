@@ -11,7 +11,7 @@ The goal of this project is to analyze Amazon Fine Food Reviews and:
 - Build an interactive Power BI dashboard to present key findings for stakeholders.
 
 ## Data
-- **Source:** Amazon Fine Food Reviews dataset (`Reviews.csv`).
+- **Source:** Amazon Fine Food Reviews dataset(too big for upload). https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 - **Cleaned Data:** `amazon_reviews_cleaned_with_labels.csv` with mapped sentiments and word counts.
 - **ML Output for BI:** `amazon_reviews_sentiment_for_powerbi.csv` including predicted sentiment and probabilities.
 - **Top Words Data:** `top_words_counts.csv` listing frequent terms by sentiment.
